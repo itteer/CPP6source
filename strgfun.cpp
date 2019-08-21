@@ -1,4 +1,5 @@
 // strgfun.cpp -- functions with a string argument
+// using
 #include <iostream>
 using namespace std;
 
